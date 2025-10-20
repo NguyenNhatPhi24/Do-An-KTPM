@@ -1,0 +1,74 @@
+***Lý thuyết
+- Tổng quan giao diện, các khái niệm liên quan, ưu nhược điểm.
+- Cách sử dụng phần mềm, tính ứng dụng của phần mềm.
+
+***Công cụ
+- Katalon Studio
+
+***Demo
+- Giới thiệu công cụ, điểm mạnh, điểm yếu
+- Sử dụng chức năng cho test web/app và API
+- So sánh với các công cụ khác
+
+
+### Slide :
+- Tổng quan giao diện, các khái niệm liên quan, ưu nhược điểm.
+- Cách sử dụng phần mềm, tính ứng dụng của phần mềm.
+
+### Báo Cáo:
+
+- báo cáo đề tài tìm hiểu
+
+-----Trang bìa
+
+`Tên trường, khoa, bộ môn
+
+`Tên đề tài
+
+`Họ tên sinh viên, lớp, MSSV
+
+`Giảng viên hướng dẫn
+
+-----Nội Dung-------
+
+`Thời gian nộp
+
+`Lý do chọn đề tài
+
+`Mục tiêu tìm hiểu
+
+`Phạm vi nghiên cứu (chỉ tập trung vào phần nào của công nghệ/công cụ)
+
+`Phương pháp thực hiện (đọc tài liệu, thực hành, tổng hợp, v.v.)
+
+-----Lý Thuyết
+
+`Trình bày kiến thức nền tảng để hiểu đề tài
+(ví dụ: nếu đề tài là “Docker”, thì lý thuyết gồm “Ảo hóa”, “Container”, “Image”, “Volume”, “Network”…)
+
+`Có thể kèm sơ đồ, hình minh họa, so sánh với công nghệ khác.
+
+----Công Cụ
+`Tên công cụ, nguồn gốc, phiên bản hiện tại
+
+`Mục đích sử dụng
+
+`Ưu điểm / nhược điểm
+
+`Cấu trúc, thành phần chính
+
+`Cách cài đặt và sử dụng cơ bản (kèm hình ảnh minh họa)
+
+--------Đánh giá và kết luận------
+
+Những gì đã học được qua quá trình tìm hiểu
+
+Ưu và nhược điểm của công cụ/công nghệ
+
+Hướng phát triển hoặc đề xuất ứng dụng thực tế
+
+------Tài liệu tham khảo----
+
+Liệt kê tài liệu, website, video, sách đã sử dụng
+(đúng chuẩn trích dẫn: [1], [2], hoặc theo APA, IEEE,...)
+
