@@ -1,0 +1,61 @@
+🔍 Tổng quan giao diện và khái niệm
+Katalon Studio là một nền tảng kiểm thử tự động toàn diện, hỗ trợ kiểm thử Web, Mobile, Desktop và API.
+
+Giao diện thân thiện, tích hợp sẵn các module như Test Case, Test Suite, Object Repository, Data Files.
+
+Hỗ trợ cả record-and-playback và script-based testing (Groovy/Java).
+
+✅ Ưu điểm
+Miễn phí cho cá nhân và nhóm nhỏ.
+
+Không cần cài đặt thêm framework bên ngoài.
+
+Tích hợp CI/CD, Git, Jenkins, JIRA, TestOps.
+
+Hỗ trợ kiểm thử API mạnh mẽ, có thể kiểm tra REST và SOAP.
+
+❌ Nhược điểm
+Hiệu năng có thể giảm khi xử lý dự án lớn.
+
+Tùy biến thấp hơn so với Selenium.
+
+Cộng đồng chưa lớn bằng các công cụ lâu đời như Selenium hay Postman.
+
+🛠️ Cách sử dụng và tính ứng dụng
+Tạo test case bằng cách ghi lại thao tác hoặc viết script.
+
+Quản lý đối tượng với Object Spy và Object Repository.
+
+Kiểm thử API: nhập URL, thêm headers, body, kiểm tra response.
+
+Tích hợp dữ liệu kiểm thử từ file Excel, CSV, hoặc database.
+
+Chạy test trên nhiều môi trường: Chrome, Firefox, Edge, Android, iOS.
+
+Ứng dụng trong:
+
+Kiểm thử hồi quy (Regression Testing)
+
+Kiểm thử tích hợp (Integration Testing)
+
+Kiểm thử hiệu năng (Performance Testing)
+
+🎬 Demo và điểm mạnh/yếu
+🔧 Điểm mạnh
+Giao diện kéo thả dễ dùng.
+
+Tích hợp sẵn nhiều tính năng không cần cài thêm.
+
+Hỗ trợ kiểm thử API mạnh mẽ.
+
+⚠️ Điểm yếu
+Không hỗ trợ kiểm thử UI trên desktop như một số công cụ khác.
+
+Khó mở rộng cho các dự án lớn hoặc yêu cầu tùy biến cao.
+
+🔄 So sánh với các công cụ khác
+Công cụ	Ưu điểm nổi bật	Nhược điểm chính
+Katalon	Dễ dùng, tích hợp sẵn, hỗ trợ API tốt	Tùy biến thấp, hiệu năng giới hạn
+Selenium	Mã nguồn mở, tùy biến cao	Cần cấu hình phức tạp, không hỗ trợ API
+Postman	Kiểm thử API mạnh, giao diện trực quan	Không hỗ trợ kiểm thử UI
+TestNG	Tích hợp tốt với Java, kiểm thử logic	Không có giao diện, cần viết code

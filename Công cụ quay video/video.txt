@@ -1,0 +1,98 @@
+📹 Yêu cầu nội dung video demo
+Trong mỗi video, cần thể hiện rõ:
+
+✅ Tên nhóm và thành viên (có thể giới thiệu đầu video hoặc trong phần mô tả).
+
+✅ Tên phần mềm hoặc website mà nhóm đã phát triển.
+
+✅ Mục tiêu và chức năng chính của sản phẩm.
+
+✅ Quy trình kiểm thử: sử dụng Katalon Studio để test Web/App/API.
+
+✅ Kết quả kiểm thử: hiển thị log, báo cáo, hoặc màn hình test thành công/thất bại.
+
+📁 Chuẩn bị tập tin chứa link video
+Bạn nên tạo một tập tin văn bản (.txt hoặc .docx) hoặc bảng (.xlsx) với cấu trúc như sau:
+
+STT	Tên nhóm	Link video YouTube	Ghi chú
+1	Nhóm Alpha	https://www.youtube.com/watch?v=abc123xyz	Kiểm thử web bán hàng
+2	Nhóm Beta	https://www.youtube.com/watch?v=def456uvw	Kiểm thử API đăng nhập
+3	Nhóm Gamma	https://www.youtube.com/watch?v=ghi789rst	Kiểm thử mobile app đặt vé
+📌 Lưu ý:
+
+Link phải là video công khai hoặc không công khai (đừng để ở chế độ riêng tư).
+
+Trong slide và báo cáo, bạn có thể chèn link trực tiếp hoặc mã QR dẫn đến video.
+
+🧪 Gợi ý nội dung video demo
+Bạn có thể chia video thành các phần sau:
+
+Giới thiệu nhóm và sản phẩm (1 phút)
+
+Trình bày giao diện phần mềm/web (1–2 phút)
+
+Thực hiện kiểm thử bằng Katalon Studio:
+
+Ghi lại thao tác test case
+
+Chạy test suite
+
+Kiểm thử API (nếu có)
+
+Hiển thị kết quả kiểm thử
+
+Tổng kết và rút ra bài học
+
+Nếu bạn cần mẫu slide hoặc báo cáo để chèn link video, mình có thể giúp bạn thiết kế. Bạn muốn làm phần mềm hay website cho demo này?
+
+nen dung cong cu lam demo va logn tieng
+Để làm demo kiểm thử tự động hiệu quả và ghi lại tiếng nói (lồng tiếng), bạn nên sử dụng kết hợp các công cụ sau:
+
+🛠️ Công cụ nên dùng cho demo kiểm thử tự động
+1. Katalon Studio
+Dùng để thực hiện kiểm thử Web, Mobile hoặc API.
+
+Ghi lại thao tác test case, chạy test suite, xuất báo cáo.
+
+Có thể quay màn hình khi chạy test để đưa vào video demo.
+
+2. OBS Studio (Open Broadcaster Software)
+Miễn phí, mã nguồn mở, dùng để quay màn hình và ghi âm giọng nói.
+
+Hỗ trợ quay toàn màn hình hoặc chỉ một cửa sổ (ví dụ: Katalon Studio).
+
+Có thể kết hợp webcam nếu muốn xuất hiện trong video.
+
+3. Audacity (ghi âm và chỉnh sửa giọng nói)
+Dùng để ghi âm lời thuyết minh cho video.
+
+Có thể chỉnh sửa, lọc tiếng ồn, tăng âm lượng, ghép vào video sau.
+
+4. CapCut hoặc Adobe Premiere Pro (biên tập video)
+Dùng để ghép video quay màn hình với giọng nói đã ghi.
+
+Thêm tiêu đề nhóm, tên phần mềm, hiệu ứng chuyển cảnh, phụ đề.
+
+Chèn link sản phẩm, mã QR, hoặc logo nhóm nếu cần.
+
+🎤 Ghi âm tiếng nói (lồng tiếng) hiệu quả
+Viết sẵn kịch bản thuyết minh: giới thiệu nhóm, sản phẩm, quy trình kiểm thử, kết quả.
+
+Dùng micro chất lượng tốt hoặc tai nghe có mic để ghi âm rõ ràng.
+
+Ghi âm từng đoạn ngắn để dễ chỉnh sửa.
+
+Lồng tiếng vào video bằng phần mềm chỉnh sửa như CapCut hoặc Premiere.
+
+📦 Quy trình tạo video demo hoàn chỉnh
+Chuẩn bị nội dung: sản phẩm, test case, kịch bản thuyết minh.
+
+Thực hiện kiểm thử bằng Katalon Studio.
+
+Quay màn hình bằng OBS Studio khi chạy test.
+
+Ghi âm lời thuyết minh bằng Audacity.
+
+Biên tập video bằng CapCut/Premiere: ghép video + âm thanh + hiệu ứng.
+
+Xuất video và upload lên YouTube.
